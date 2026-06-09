@@ -1,0 +1,7 @@
+# robots.txt for AutoTyper Tool (GitHub Pages)
+# https://pitchsolicitortend.github.io/fwycbzlv/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pitchsolicitortend.github.io/fwycbzlv/sitemap.xml
