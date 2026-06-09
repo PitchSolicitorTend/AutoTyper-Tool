@@ -1,0 +1,15 @@
+{
+  "name": "Example Preset",
+  "text": "Hello! This text will be typed automatically by AutoTyper Tool.\nLine two of the message.\n\n- Adjustable speed\n- Custom hotkeys\n- Loop mode",
+  "typingSpeedCps": 80,
+  "startDelaySeconds": 3,
+  "humanizeDelay": false,
+  "loopMode": "off",
+  "loopCount": 1,
+  "newLineMode": "enter",
+  "hotkeys": {
+    "start": "F6",
+    "pause": "F7",
+    "stop": "Escape"
+  }
+}
